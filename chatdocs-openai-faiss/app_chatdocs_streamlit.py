@@ -1,4 +1,4 @@
-#This section contributed by Vaishnavi Mada for the index search and query responses,with Anukeerthi enhancing the query responses from OpenAI.
+
 
 #Index Search
 #The script loads a FAISS vector database using load_vector_db() to perform similarity-based searches on document embeddings created with OpenAI embeddings.
